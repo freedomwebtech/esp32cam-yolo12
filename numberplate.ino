@@ -4,8 +4,8 @@
 #include "esp_camera.h"
 
 // WiFi Credentials
-const char* WIFI_SSID = "apex";
-const char* WIFI_PASS = "freedomtech";
+const char* WIFI_SSID = "";
+const char* WIFI_PASS = "";
 
 // Web server running on port 80
 WebServer server(80);
